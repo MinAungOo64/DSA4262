@@ -1,0 +1,151 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,1,Global,3,Both,1,<5 years,575,Autism spectrum disorders,3,Rate,2023,928.7992374062301,2480.5125416612,291.87940477622004
+1,All Population,5,Prevalence,1,Global,3,Both,6,5-9 years,575,Autism spectrum disorders,3,Rate,2023,883.90004356848,2274.15725461414,347.26259879356
+1,All Population,5,Prevalence,1,Global,3,Both,7,10-14 years,575,Autism spectrum disorders,3,Rate,2023,845.6786476679899,1991.6376998081,322.05438136854997
+1,All Population,5,Prevalence,1,Global,3,Both,8,15-19 years,575,Autism spectrum disorders,3,Rate,2023,790.65036274884,1609.2544850139602,333.6347840415
+1,All Population,5,Prevalence,1,Global,3,Both,9,20-24 years,575,Autism spectrum disorders,3,Rate,2023,731.09348223073,1481.45402707611,339.57121834818
+1,All Population,5,Prevalence,1,Global,3,Both,10,25-29 years,575,Autism spectrum disorders,3,Rate,2023,672.29691070818,1332.5028298991201,354.74434795733
+1,All Population,5,Prevalence,1,Global,3,Both,11,30-34 years,575,Autism spectrum disorders,3,Rate,2023,609.61794640548,1131.5333694864,321.66213537678
+1,All Population,5,Prevalence,1,Global,3,Both,12,35-39 years,575,Autism spectrum disorders,3,Rate,2023,582.0444626863799,1137.43467039036,307.55918908077
+1,All Population,5,Prevalence,1,Global,3,Both,13,40-44 years,575,Autism spectrum disorders,3,Rate,2023,567.6204983255101,1209.96260866471,240.43975604858002
+1,All Population,5,Prevalence,1,Global,3,Both,14,45-49 years,575,Autism spectrum disorders,3,Rate,2023,538.09437947406,1139.1870412688102,219.33569401748
+1,All Population,5,Prevalence,1,Global,3,Both,15,50-54 years,575,Autism spectrum disorders,3,Rate,2023,505.47995624268,1043.25411819998,209.54743768374001
+1,All Population,5,Prevalence,1,Global,3,Both,16,55-59 years,575,Autism spectrum disorders,3,Rate,2023,467.70345210039,928.9417223156499,195.51264620385
+1,All Population,5,Prevalence,1,Global,3,Both,17,60-64 years,575,Autism spectrum disorders,3,Rate,2023,435.22835827145,859.5944254512501,184.52390221358
+1,All Population,5,Prevalence,1,Global,3,Both,18,65-69 years,575,Autism spectrum disorders,3,Rate,2023,387.47101622024,782.66989271487,169.98960116601
+1,All Population,5,Prevalence,1,Global,3,Both,26,70+ years,575,Autism spectrum disorders,3,Rate,2023,288.405967776,611.82631700956,125.16586569896
+1,All Population,5,Prevalence,1,Global,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,195.73176336542,290.07051756161,131.30405071206
+1,All Population,5,Prevalence,1,Global,3,Both,6,5-9 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,2098.22226093443,3103.51233110218,1415.67428420074
+1,All Population,5,Prevalence,1,Global,3,Both,7,10-14 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,2774.4660779592,4090.6381881570696,1911.3054116313301
+1,All Population,5,Prevalence,1,Global,3,Both,8,15-19 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,2211.3514297348797,3074.19125746822,1499.3979941564498
+1,All Population,5,Prevalence,1,Global,3,Both,9,20-24 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,1586.8111658726698,2145.7166679687502,1087.12896966758
+1,All Population,5,Prevalence,1,Global,3,Both,10,25-29 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,1212.23949270819,1703.2648494901302,839.9534328490599
+1,All Population,5,Prevalence,1,Global,3,Both,11,30-34 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,990.019041471,1414.0633601715301,680.05426487587
+1,All Population,5,Prevalence,1,Global,3,Both,12,35-39 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,806.9933552651399,1131.43152334361,557.23384232898
+1,All Population,5,Prevalence,1,Global,3,Both,13,40-44 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,644.50717898572,899.6523345911099,450.79801256620993
+1,All Population,5,Prevalence,1,Global,3,Both,14,45-49 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,525.29909082512,730.99595083089,359.11595701562
+1,All Population,5,Prevalence,1,Global,3,Both,15,50-54 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,419.94714184759005,595.46892293786,274.85902054821
+1,All Population,5,Prevalence,1,Global,3,Both,16,55-59 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,289.91886584058,415.12413030439,187.12260572565
+1,All Population,5,Prevalence,1,Global,3,Both,17,60-64 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,166.20347132907,246.74433894124002,100.29878325037
+1,All Population,5,Prevalence,1,Global,3,Both,18,65-69 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,88.43096778932001,142.51774809759002,47.201232805080004
+1,All Population,5,Prevalence,1,Global,3,Both,26,70+ years,578,Attention-deficit/hyperactivity disorder,3,Rate,2023,21.64651232253,42.23037861405,8.03912124054
+1,All Population,5,Prevalence,1,Global,3,Both,1,<5 years,579,Conduct disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,6,5-9 years,579,Conduct disorder,3,Rate,2023,1149.07912721918,1763.4160273263599,757.6010226762
+1,All Population,5,Prevalence,1,Global,3,Both,7,10-14 years,579,Conduct disorder,3,Rate,2023,2878.6816846905,3976.4634399883203,2029.3378570699301
+1,All Population,5,Prevalence,1,Global,3,Both,8,15-19 years,579,Conduct disorder,3,Rate,2023,1728.0888725990098,2358.980213841,1220.52178677659
+1,All Population,5,Prevalence,1,Global,3,Both,9,20-24 years,579,Conduct disorder,3,Rate,2023,104.43009460156,162.63246539733,57.76865901736
+1,All Population,5,Prevalence,1,Global,3,Both,10,25-29 years,579,Conduct disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,11,30-34 years,579,Conduct disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,12,35-39 years,579,Conduct disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,13,40-44 years,579,Conduct disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,14,45-49 years,579,Conduct disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,15,50-54 years,579,Conduct disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,16,55-59 years,579,Conduct disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,17,60-64 years,579,Conduct disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,18,65-69 years,579,Conduct disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,26,70+ years,579,Conduct disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,1,<5 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,880.0864916358901,1769.37440329254,324.88436380508
+1,All Population,5,Prevalence,1,Global,3,Both,6,5-9 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,999.4506371206,1897.25195298083,442.23268521047
+1,All Population,5,Prevalence,1,Global,3,Both,7,10-14 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,973.40145179191,1839.6725858842701,442.65009366338995
+1,All Population,5,Prevalence,1,Global,3,Both,8,15-19 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,956.7687832955199,1773.40471208698,429.11761811046
+1,All Population,5,Prevalence,1,Global,3,Both,9,20-24 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,951.0953940370199,1661.2222413361799,417.68051266191003
+1,All Population,5,Prevalence,1,Global,3,Both,10,25-29 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,947.54035835594,1638.5487835205802,458.35863646571005
+1,All Population,5,Prevalence,1,Global,3,Both,11,30-34 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,943.62525446517,1593.5052910210397,502.23493998453
+1,All Population,5,Prevalence,1,Global,3,Both,12,35-39 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,923.12397928159,1562.14840766322,463.02177802289003
+1,All Population,5,Prevalence,1,Global,3,Both,13,40-44 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,879.62405734388,1518.02310995695,423.7582369717
+1,All Population,5,Prevalence,1,Global,3,Both,14,45-49 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,836.86905630323,1448.24333857486,411.95892733360006
+1,All Population,5,Prevalence,1,Global,3,Both,15,50-54 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,781.40778245491,1387.58740517672,389.16205795802
+1,All Population,5,Prevalence,1,Global,3,Both,16,55-59 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,705.08152833372,1261.44215602145,357.88867700817
+1,All Population,5,Prevalence,1,Global,3,Both,17,60-64 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,620.03219034455,1075.38388840831,295.66435498417
+1,All Population,5,Prevalence,1,Global,3,Both,18,65-69 years,582,Idiopathic developmental intellectual disability,3,Rate,2023,556.64465503953,967.89059528712,272.33280804682
+1,All Population,5,Prevalence,1,Global,3,Both,26,70+ years,582,Idiopathic developmental intellectual disability,3,Rate,2023,438.96353708351,749.44825516479,223.41467135132
+1,All Population,5,Prevalence,1,Global,3,Both,1,<5 years,585,Other mental disorders,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,6,5-9 years,585,Other mental disorders,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,7,10-14 years,585,Other mental disorders,3,Rate,2023,61.605341849009996,90.07261828904,39.45102137931
+1,All Population,5,Prevalence,1,Global,3,Both,8,15-19 years,585,Other mental disorders,3,Rate,2023,419.77373452557,612.77971960177,269.87638673112
+1,All Population,5,Prevalence,1,Global,3,Both,9,20-24 years,585,Other mental disorders,3,Rate,2023,1046.67540751201,1499.52199176607,710.04173068351
+1,All Population,5,Prevalence,1,Global,3,Both,10,25-29 years,585,Other mental disorders,3,Rate,2023,1644.20360229521,2171.44191458051,1249.51150825331
+1,All Population,5,Prevalence,1,Global,3,Both,11,30-34 years,585,Other mental disorders,3,Rate,2023,2124.56034350171,2742.7821200604203,1628.4896458438998
+1,All Population,5,Prevalence,1,Global,3,Both,12,35-39 years,585,Other mental disorders,3,Rate,2023,2437.86594221476,3087.92158743376,1875.73249368783
+1,All Population,5,Prevalence,1,Global,3,Both,13,40-44 years,585,Other mental disorders,3,Rate,2023,2605.7518296705302,3309.46216776004,2014.0301596218
+1,All Population,5,Prevalence,1,Global,3,Both,14,45-49 years,585,Other mental disorders,3,Rate,2023,2690.49879690618,3407.96021357345,2110.33928129352
+1,All Population,5,Prevalence,1,Global,3,Both,15,50-54 years,585,Other mental disorders,3,Rate,2023,2728.50942024703,3465.1670300157202,2162.2155552611803
+1,All Population,5,Prevalence,1,Global,3,Both,16,55-59 years,585,Other mental disorders,3,Rate,2023,2739.37449110961,3472.31878400147,2182.7103615433803
+1,All Population,5,Prevalence,1,Global,3,Both,17,60-64 years,585,Other mental disorders,3,Rate,2023,2742.03300749534,3385.7727429717897,2198.50955631523
+1,All Population,5,Prevalence,1,Global,3,Both,18,65-69 years,585,Other mental disorders,3,Rate,2023,2751.78388184476,3365.83087246808,2229.34583802792
+1,All Population,5,Prevalence,1,Global,3,Both,26,70+ years,585,Other mental disorders,3,Rate,2023,2818.0143828477103,3419.50942661267,2297.10809031147
+1,All Population,5,Prevalence,1,Global,3,Both,1,<5 years,559,Schizophrenia,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,6,5-9 years,559,Schizophrenia,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,7,10-14 years,559,Schizophrenia,3,Rate,2023,10.73671170181,19.2281451299,5.3361985333
+1,All Population,5,Prevalence,1,Global,3,Both,8,15-19 years,559,Schizophrenia,3,Rate,2023,82.04286994998999,122.54003449880999,54.07027529794
+1,All Population,5,Prevalence,1,Global,3,Both,9,20-24 years,559,Schizophrenia,3,Rate,2023,257.89885526735,372.88203815514004,176.08505165206
+1,All Population,5,Prevalence,1,Global,3,Both,10,25-29 years,559,Schizophrenia,3,Rate,2023,422.75750642117004,566.9072274878599,305.42313629418
+1,All Population,5,Prevalence,1,Global,3,Both,11,30-34 years,559,Schizophrenia,3,Rate,2023,523.04409506271,686.37067722584,375.37258392416004
+1,All Population,5,Prevalence,1,Global,3,Both,12,35-39 years,559,Schizophrenia,3,Rate,2023,575.34201265822,752.01649994735,424.88136346787
+1,All Population,5,Prevalence,1,Global,3,Both,13,40-44 years,559,Schizophrenia,3,Rate,2023,597.1319182344599,750.2222110400099,460.31099044163994
+1,All Population,5,Prevalence,1,Global,3,Both,14,45-49 years,559,Schizophrenia,3,Rate,2023,597.9702984051199,741.6302701294501,474.46716544010997
+1,All Population,5,Prevalence,1,Global,3,Both,15,50-54 years,559,Schizophrenia,3,Rate,2023,588.4403402906199,727.99526163068,480.45205170765
+1,All Population,5,Prevalence,1,Global,3,Both,16,55-59 years,559,Schizophrenia,3,Rate,2023,571.23067308466,698.01305649542,476.03266280816
+1,All Population,5,Prevalence,1,Global,3,Both,17,60-64 years,559,Schizophrenia,3,Rate,2023,541.09343246377,647.7717960650999,451.88469152006996
+1,All Population,5,Prevalence,1,Global,3,Both,18,65-69 years,559,Schizophrenia,3,Rate,2023,478.07806316477,575.01667894696,397.41248872468003
+1,All Population,5,Prevalence,1,Global,3,Both,26,70+ years,559,Schizophrenia,3,Rate,2023,290.42660511757,346.77548754707,240.08509988816002
+1,All Population,5,Prevalence,1,Global,3,Both,1,<5 years,567,Depressive disorders,3,Rate,2023,0.43379759823999997,0.91403974734,0.13790552357000002
+1,All Population,5,Prevalence,1,Global,3,Both,6,5-9 years,567,Depressive disorders,3,Rate,2023,214.32425521112,358.84855382773003,121.37764684445
+1,All Population,5,Prevalence,1,Global,3,Both,7,10-14 years,567,Depressive disorders,3,Rate,2023,1762.58568040959,2376.8731322334,1234.59554694088
+1,All Population,5,Prevalence,1,Global,3,Both,8,15-19 years,567,Depressive disorders,3,Rate,2023,4550.89114305495,5830.11000933746,3313.70858406887
+1,All Population,5,Prevalence,1,Global,3,Both,9,20-24 years,567,Depressive disorders,3,Rate,2023,4780.69763665121,6007.91082690373,3834.5391729837397
+1,All Population,5,Prevalence,1,Global,3,Both,10,25-29 years,567,Depressive disorders,3,Rate,2023,4909.70733468447,6048.757122005,3946.1799522591696
+1,All Population,5,Prevalence,1,Global,3,Both,11,30-34 years,567,Depressive disorders,3,Rate,2023,5004.19581164952,6140.80348862333,4041.83441423471
+1,All Population,5,Prevalence,1,Global,3,Both,12,35-39 years,567,Depressive disorders,3,Rate,2023,5144.8669137343595,6353.494083690391,4209.58911260288
+1,All Population,5,Prevalence,1,Global,3,Both,13,40-44 years,567,Depressive disorders,3,Rate,2023,5279.74950745532,6509.63421824322,4160.5171002978195
+1,All Population,5,Prevalence,1,Global,3,Both,14,45-49 years,567,Depressive disorders,3,Rate,2023,5294.882771232949,6437.38016570964,4315.42585769863
+1,All Population,5,Prevalence,1,Global,3,Both,15,50-54 years,567,Depressive disorders,3,Rate,2023,5333.5869694076,6555.72406108009,4433.5357158201405
+1,All Population,5,Prevalence,1,Global,3,Both,16,55-59 years,567,Depressive disorders,3,Rate,2023,5387.660186922521,6456.361618141749,4542.38486756411
+1,All Population,5,Prevalence,1,Global,3,Both,17,60-64 years,567,Depressive disorders,3,Rate,2023,5403.01010747134,6554.65293607303,4474.51667833207
+1,All Population,5,Prevalence,1,Global,3,Both,18,65-69 years,567,Depressive disorders,3,Rate,2023,5463.94466519173,6723.891632589401,4533.14362473373
+1,All Population,5,Prevalence,1,Global,3,Both,26,70+ years,567,Depressive disorders,3,Rate,2023,5356.85396501449,6514.04016008927,4504.95336785137
+1,All Population,5,Prevalence,1,Global,3,Both,1,<5 years,570,Bipolar disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,6,5-9 years,570,Bipolar disorder,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,7,10-14 years,570,Bipolar disorder,3,Rate,2023,84.48248221773,122.72698611087999,53.33253218182
+1,All Population,5,Prevalence,1,Global,3,Both,8,15-19 years,570,Bipolar disorder,3,Rate,2023,420.01625106438996,592.70368452961,285.83261650082
+1,All Population,5,Prevalence,1,Global,3,Both,9,20-24 years,570,Bipolar disorder,3,Rate,2023,576.62762071326,795.2862613533999,413.43262133132004
+1,All Population,5,Prevalence,1,Global,3,Both,10,25-29 years,570,Bipolar disorder,3,Rate,2023,617.0749934550599,842.9644869020101,462.50536181018003
+1,All Population,5,Prevalence,1,Global,3,Both,11,30-34 years,570,Bipolar disorder,3,Rate,2023,610.1297685005001,798.1714180109101,466.34539019465
+1,All Population,5,Prevalence,1,Global,3,Both,12,35-39 years,570,Bipolar disorder,3,Rate,2023,621.54993762586,802.4205312625601,488.58211864098
+1,All Population,5,Prevalence,1,Global,3,Both,13,40-44 years,570,Bipolar disorder,3,Rate,2023,662.63569112828,841.88762922669,520.53917185997
+1,All Population,5,Prevalence,1,Global,3,Both,14,45-49 years,570,Bipolar disorder,3,Rate,2023,662.21723443436,841.48076249679,514.06449451875
+1,All Population,5,Prevalence,1,Global,3,Both,15,50-54 years,570,Bipolar disorder,3,Rate,2023,640.70773624766,823.8485308431799,517.4174432017701
+1,All Population,5,Prevalence,1,Global,3,Both,16,55-59 years,570,Bipolar disorder,3,Rate,2023,622.0426504364999,785.05251358646,484.23789067768996
+1,All Population,5,Prevalence,1,Global,3,Both,17,60-64 years,570,Bipolar disorder,3,Rate,2023,621.82340024511,782.2495485084501,498.04948373397
+1,All Population,5,Prevalence,1,Global,3,Both,18,65-69 years,570,Bipolar disorder,3,Rate,2023,567.47884913191,715.39544994684,456.79420635206003
+1,All Population,5,Prevalence,1,Global,3,Both,26,70+ years,570,Bipolar disorder,3,Rate,2023,422.9980474192,524.83093071841,343.09980257948
+1,All Population,5,Prevalence,1,Global,3,Both,1,<5 years,571,Anxiety disorders,3,Rate,2023,138.69926601837,385.32972542872,46.47262376504
+1,All Population,5,Prevalence,1,Global,3,Both,6,5-9 years,571,Anxiety disorders,3,Rate,2023,4955.58013141612,11933.34813371879,2162.1565328452602
+1,All Population,5,Prevalence,1,Global,3,Both,7,10-14 years,571,Anxiety disorders,3,Rate,2023,9052.99006899857,17316.5509914868,3916.03661818881
+1,All Population,5,Prevalence,1,Global,3,Both,8,15-19 years,571,Anxiety disorders,3,Rate,2023,7603.602996741441,12763.915379703289,4339.93999361563
+1,All Population,5,Prevalence,1,Global,3,Both,9,20-24 years,571,Anxiety disorders,3,Rate,2023,6545.361678938009,9873.67905473994,4544.04121608432
+1,All Population,5,Prevalence,1,Global,3,Both,10,25-29 years,571,Anxiety disorders,3,Rate,2023,6255.475049249901,8867.04528521932,4430.17622011185
+1,All Population,5,Prevalence,1,Global,3,Both,11,30-34 years,571,Anxiety disorders,3,Rate,2023,5966.1663252762,9104.3903295827,4020.9516772718903
+1,All Population,5,Prevalence,1,Global,3,Both,12,35-39 years,571,Anxiety disorders,3,Rate,2023,5829.25453288511,7817.28836773194,4110.21011930463
+1,All Population,5,Prevalence,1,Global,3,Both,13,40-44 years,571,Anxiety disorders,3,Rate,2023,5883.26280036565,8260.32349036874,4228.05882440257
+1,All Population,5,Prevalence,1,Global,3,Both,14,45-49 years,571,Anxiety disorders,3,Rate,2023,5835.688634534,8398.26798818826,4210.43478610066
+1,All Population,5,Prevalence,1,Global,3,Both,15,50-54 years,571,Anxiety disorders,3,Rate,2023,5816.390174583759,8867.97541385521,3815.12985150108
+1,All Population,5,Prevalence,1,Global,3,Both,16,55-59 years,571,Anxiety disorders,3,Rate,2023,5812.7150991217795,8667.003672999641,3953.2978377890904
+1,All Population,5,Prevalence,1,Global,3,Both,17,60-64 years,571,Anxiety disorders,3,Rate,2023,5907.10072218987,8565.43835880628,3717.94651254499
+1,All Population,5,Prevalence,1,Global,3,Both,18,65-69 years,571,Anxiety disorders,3,Rate,2023,5903.49827204247,8679.50469804466,3956.10501946425
+1,All Population,5,Prevalence,1,Global,3,Both,26,70+ years,571,Anxiety disorders,3,Rate,2023,5941.60743796058,8837.06154190726,4099.11505755615
+1,All Population,5,Prevalence,1,Global,3,Both,1,<5 years,572,Eating disorders,3,Rate,2023,0.0,0.0,0.0
+1,All Population,5,Prevalence,1,Global,3,Both,6,5-9 years,572,Eating disorders,3,Rate,2023,25.69187041131,44.59541656646,12.303590670570001
+1,All Population,5,Prevalence,1,Global,3,Both,7,10-14 years,572,Eating disorders,3,Rate,2023,205.01455434308002,322.11159213889,127.92083266896
+1,All Population,5,Prevalence,1,Global,3,Both,8,15-19 years,572,Eating disorders,3,Rate,2023,484.80046487774,797.2834142851999,303.87207745653
+1,All Population,5,Prevalence,1,Global,3,Both,9,20-24 years,572,Eating disorders,3,Rate,2023,487.25519682542,816.7175568533399,302.48999606382
+1,All Population,5,Prevalence,1,Global,3,Both,10,25-29 years,572,Eating disorders,3,Rate,2023,469.21595320226,741.3217185109601,325.58184009432
+1,All Population,5,Prevalence,1,Global,3,Both,11,30-34 years,572,Eating disorders,3,Rate,2023,444.93104082172005,641.60951481978,315.36831543968003
+1,All Population,5,Prevalence,1,Global,3,Both,12,35-39 years,572,Eating disorders,3,Rate,2023,365.75225001952,532.30316274012,256.42703607747
+1,All Population,5,Prevalence,1,Global,3,Both,13,40-44 years,572,Eating disorders,3,Rate,2023,241.56014530794,342.6914785268,172.84913703411
+1,All Population,5,Prevalence,1,Global,3,Both,14,45-49 years,572,Eating disorders,3,Rate,2023,151.38867311478,213.95556701425002,105.51527358144
+1,All Population,5,Prevalence,1,Global,3,Both,15,50-54 years,572,Eating disorders,3,Rate,2023,99.07999310865002,142.63944887883,65.75901366305
+1,All Population,5,Prevalence,1,Global,3,Both,16,55-59 years,572,Eating disorders,3,Rate,2023,65.10251084281,98.04427576659,42.874787075149996
+1,All Population,5,Prevalence,1,Global,3,Both,17,60-64 years,572,Eating disorders,3,Rate,2023,42.37293786488,66.63982789389,26.72733153156
+1,All Population,5,Prevalence,1,Global,3,Both,18,65-69 years,572,Eating disorders,3,Rate,2023,21.243897844470002,33.18646079403,13.04368144991
+1,All Population,5,Prevalence,1,Global,3,Both,26,70+ years,572,Eating disorders,3,Rate,2023,4.42023687216,7.64031321838,2.5659498955799998

@@ -1,0 +1,11 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,558,Mental disorders,3,Rate,2014,11749.32672194244,12778.082012097811,10667.25169595276
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,558,Mental disorders,3,Rate,2015,11807.76951030133,12823.15115515292,10725.46563065452
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,558,Mental disorders,3,Rate,2016,11873.73997588637,12913.80311630946,10815.52718637453
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,558,Mental disorders,3,Rate,2019,12046.184018002661,13169.27994392513,11019.13799308448
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,558,Mental disorders,3,Rate,2017,11931.525165220639,12978.917106922918,10887.89334157849
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,558,Mental disorders,3,Rate,2018,11985.09040412685,13047.07391405432,10947.47983428658
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,558,Mental disorders,3,Rate,2021,13392.581259082888,14809.32210137334,12194.49971822073
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,558,Mental disorders,3,Rate,2020,13285.3095485183,14642.71489355817,12110.5849471968
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,558,Mental disorders,3,Rate,2022,13522.27522973763,15043.03518589296,12291.94271798921
+1,All Population,5,Prevalence,1,Global,3,Both,27,Age-standardized,558,Mental disorders,3,Rate,2023,14210.666587349771,15940.13166310383,12849.498648992
